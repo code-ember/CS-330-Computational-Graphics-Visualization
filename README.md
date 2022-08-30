@@ -1,5 +1,4 @@
 # CS-330 Project
----------------------------------------------------------------------------------------------------
 
 # What new design skills has your work on the project helped you to craft?
 The design skills helped me design software that improved my programming skills with using C++ in order to create numerous 2D objects with a 3D view set. Also, I did not thank that I would need to relay on so much math formulas that I learned two years ago to calculate the x, y and z axles.
