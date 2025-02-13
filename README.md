@@ -1,4 +1,4 @@
-# Introduction to Computational Graphics and Visualization
+# Computational Graphics and Visualization
 Welcome to my CS-330 project, where I delve into the world of computational graphics and visualization. Throughout this project, I have gained valuable skills and insights that have enhanced my programming abilities, design processes, and overall approach to software development. Here’s an overview of my journey:
 
 # New Design Skills: 
