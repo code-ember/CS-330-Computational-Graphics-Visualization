@@ -1,25 +1,19 @@
-# CS-330 Project
+# Introduction to Computational Graphics and Visualization
 
-# What new design skills has your work on the project helped you to craft?
-The design skills helped me design software that improved my programming skills with using C++ in order to create numerous 2D objects with a 3D view set. Also, I did not thank that I would need to relay on so much math formulas that I learned two years ago to calculate the x, y and z axles.
+# Welcome to my CS-330 project, where I delve into the world of computational graphics and visualization. Throughout this project, I have gained valuable skills and insights that have enhanced my programming abilities, design processes, and overall approach to software development. Here’s an overview of my journey:
 
-# What design process did you follow for your project work?
-The design process I used to manage the completion of the final project in module seven is following these five steps. First, I worded on is the creating my objects with calculating the x, y and z coordinating. Second, I worded on is the texture and wring each texture per object in order to load them. Third, I added the dictionary for each major sections in the code in order to keep track of everything. Fourth, I added the lighting to create a visualization of my 3D scene. Finally, I added the camera ability for all around navigation of my 3D scene.
+# New Design Skills: This project has honed my ability to design software using C++, enabling me to create intricate 2D objects with a 3D perspective. Additionally, I’ve rediscovered the importance of mathematical formulas in calculating x, y, and z coordinates.
 
-# How could tactics from your design approach be applied in future work?
-I felt that the design approach helped me think outside of my confuted zone and it led to some great ideas. Also, I modified my final project repeatedly by trial and error which helped me create objects, functions, buffers, and other inputs that speed up the process at the end.
+# Design Process: My design process consisted of five key steps. First, I created objects by calculating their coordinates. Next, I worked on texturing each object to ensure they loaded correctly. Then, I added a dictionary for major code sections to keep everything organized. After that, I incorporated lighting to bring my 3D scene to life. Finally, I added camera functionality for comprehensive navigation.
 
-# What new development strategies did you use while working on your 3D scene?
-I created a storyboard to help me plan out every step of my 3D scene and it helps improve all my ideas that were stuck in my head.
+# Future Applications: The design approach used in this project pushed me out of my comfort zone, leading to innovative ideas. Through trial and error, I repeatedly modified the final project, creating objects, functions, buffers, and other inputs that streamlined the process.
 
-# How did iteration factor into your development?
-The iterative process begins with a series of steps that is repeated over again, which helps improve the base of the project. Also, the iterative process is like the waterfall and agile methods which improves on the result of each cycle.
+# Development Strategies: I employed a storyboard to meticulously plan each step of my 3D scene, helping to clarify and enhance the ideas that were initially in my head.
 
-# How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-Every milestone that I went through helped me out by tracking my overall progress toward the end of each module in order to move on to the next task in the modules.
+# Iteration in Development: The iterative process, akin to both waterfall and agile methodologies, involved repeating a series of steps to refine the project’s foundation. This cyclical improvement led to better outcomes with each iteration.
 
-# How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway? 
-The time I spent in this class learning about graphics and visualizations, I can say that my knowledge and skills from programming with OpenGL and C++ really have grown. Also, my math skills have enhanced a lot as well. As I am approaching the end of my bachelor’s degree, this expressly helps my growth and knowledge as a programmer.
+# Evolving Code Development: Each milestone tracked my progress and guided me towards completing the project. These checkpoints ensured that I could move on to subsequent tasks efficiently.
 
-# How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
-Creating visualizations when displaying results of data since a lot of people depend on data to make decisions and by telling a story with the data can help build 3D plans to help others make decisions. This class has opened my eyes into how computational graphics and visualizations can have a big impacted on myself and others.
+# Educational Pathway: The knowledge and skills I’ve acquired in computational graphics and visualizations have significantly grown, especially in programming with OpenGL and C++. As I near the completion of my bachelor’s degree, this experience has been instrumental in my development as a programmer.
+
+# Professional Pathway: Creating visualizations to display data results is crucial, as many people rely on data for decision-making. This project has shown me how computational graphics and visualizations can tell compelling stories with data, aiding in decision-making processes. It has truly opened my eyes to the impact these skills can have on my future professional endeavors.
