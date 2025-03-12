@@ -24,3 +24,5 @@ The knowledge and skills I’ve acquired in computational graphics and visualiza
 
 ### Professional Pathway: 
 Creating visualizations to display data results is crucial, as many people rely on data for decision-making. This project has shown me how computational graphics and visualizations can tell compelling stories with data, aiding in decision-making processes. It has truly opened my eyes to the impact these skills can have on my future professional endeavors.
+
+## CS-330
